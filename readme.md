@@ -8,6 +8,7 @@
 </p>
 
 Install npm
+
 Note : All commands should be run with sudo not with root user.
 
 ## npm install && npm install vue-router
