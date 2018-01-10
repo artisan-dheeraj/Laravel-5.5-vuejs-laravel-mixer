@@ -10,14 +10,14 @@
 ## Install npm
 Note : All commands should be run with sudo not with root user.
 
-Command : npm install && npm install vue-router
-
+## npm install && npm install vue-router
 Next thing we do is compile the basic Vue.js file. To do so, we need to run following command :
 
-npm run watch
+## npm run watch
 
 npm run watch will also launch a “watcher” which will compile files as we change them.
 
 If you will get error :- Error: Cannot find module 'node-sass'
-run following command :npm install node-sass or npm install --unsafe-perm node-sass
+run following command :
+## npm install node-sass or npm install --unsafe-perm node-sass
 
