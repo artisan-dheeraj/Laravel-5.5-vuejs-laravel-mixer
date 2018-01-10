@@ -7,7 +7,7 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
 </p>
 
-## Install npm
+Install npm
 Note : All commands should be run with sudo not with root user.
 
 ## npm install && npm install vue-router
